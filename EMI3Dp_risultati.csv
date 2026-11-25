@@ -1,0 +1,7 @@
+f_MHz,materiale,SE_E_3D_dB,SE_H_3D_dB,SE_1D_prova_dB
+64,con rame,42.87,44.24,56.81
+64,senza rame,42.33,43.19,56.71
+96,con rame,39.53,49.08,55.61
+96,senza rame,39.79,49.25,55.65
+128,con rame,49.31,53.27,54.80
+128,senza rame,49.54,53.42,54.90
